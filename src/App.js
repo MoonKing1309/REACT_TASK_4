@@ -1,6 +1,5 @@
 import './App.css';
 import Axios from 'axios';
-import { forEach } from 'mathjs';
 import {useState,useEffect,Component} from 'react';
 function App(){
 
